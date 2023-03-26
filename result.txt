@@ -1,0 +1,4 @@
+Precision	Recall	Confidence
+0.35985207893778126	0.1888992154874367	1.0
+
+AUC: 0.128       Optimal (precision, recall, F1): [0.36  0.189 0.248]

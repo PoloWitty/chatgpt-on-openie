@@ -1,0 +1,1 @@
+python CaRB/carb.py --gold="CaRB/data/gold/test.tsv" --out="result.txt" --tabbed="processed.tsv"
