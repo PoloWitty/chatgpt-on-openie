@@ -1,6 +1,6 @@
 # chatgpt on OpenIE
 
-This repo evaluate chatgpt open information performance using CaRB (a benchmark on OpenIE task).
+This repo evaluate chatgpt open information extraction performance using CaRB (a benchmark on OpenIE task).
 
 ## Result
 chatgpt performs pretty poor on this task. It only achieve f1 of 0.248. On paperwithcode, the lowest score on this leaderboard is ~0.5 of f1 score.
