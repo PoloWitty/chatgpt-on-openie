@@ -5,7 +5,7 @@ This repo evaluate chatgpt open information extraction performance using CaRB (a
 ## Result
 chatgpt performs pretty poor on this task. It only achieve f1 of 0.248. On paperwithcode, the lowest score on this leaderboard is ~0.5 of f1 score.
 
-## chatgpt settings
+## Chatgpt settings
 ### api parameters
 ```text
 model: gpt-3.5-turbo
@@ -24,7 +24,7 @@ So the input prompt to api is actually as follows, the input sentences is attach
 ```
 
 
-## post process
+## Post process
 There are a lot of format problems in the raw output. So I do some post processing. The details are as follows.
 
 - pick '\\t' as '\t'
